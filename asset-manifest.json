@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/lesya/static/css/main.a31e1db4.css",
+    "main.js": "/lesya/static/js/main.57c88ab7.js",
+    "static/js/787.c57986bd.chunk.js": "/lesya/static/js/787.c57986bd.chunk.js",
+    "static/media/audio.mp3": "/lesya/static/media/audio.cefbc4801fce85754c40.mp3",
+    "static/media/1.jpg": "/lesya/static/media/1.c8bad699e2d4a4164d23.jpg",
+    "static/media/5.jpg": "/lesya/static/media/5.2fdd914ff41616eb0597.jpg",
+    "static/media/l.jpg": "/lesya/static/media/l.c91b07301eefa8a3e3be.jpg",
+    "static/media/4.jpg": "/lesya/static/media/4.6dbfdffdf15cf3c4c132.jpg",
+    "static/media/3.jpg": "/lesya/static/media/3.1916d566bd8349feb2de.jpg",
+    "index.html": "/lesya/index.html",
+    "main.a31e1db4.css.map": "/lesya/static/css/main.a31e1db4.css.map",
+    "main.57c88ab7.js.map": "/lesya/static/js/main.57c88ab7.js.map",
+    "787.c57986bd.chunk.js.map": "/lesya/static/js/787.c57986bd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a31e1db4.css",
+    "static/js/main.57c88ab7.js"
+  ]
+}
